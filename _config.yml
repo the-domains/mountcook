@@ -1,6 +1,6 @@
 name: Mountcook
 favicon: null
-layout_spectrum: 0.53582
+layout_spectrum: 0.61207
 typography_spectrum: 0.71351
 title: MountCook
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9cc34c'
     - '#777777'
     - '#3f3f3f'
-  brandStrength: 0.375
-  lightness: 0.8125
-  saturation: 0.3125
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []

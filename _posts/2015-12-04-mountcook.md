@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-04T12:09:19.798Z'
-dateModified: '2015-12-04T12:06:53.851Z'
-title: Mountcook
+description: Een korte beschrijving van Mountcook
+datePublished: '2015-12-04T12:45:18.237Z'
+dateModified: '2015-12-04T12:42:46.239Z'
+title: Over Mountcook
 author: []
+sourcePath: _posts/2015-12-04-mountcook.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-04-mountcook.md
-published: true
 url: mountcook/index.html
-_type: Article
+_type: WebPage
 
 ---
 ****

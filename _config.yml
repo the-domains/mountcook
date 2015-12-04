@@ -2,6 +2,7 @@ name: Mountcook
 favicon: null
 layout_spectrum: 0.19760193396359682
 typography_spectrum: 0.04490037355571985
+title: MountCook
 cta:
   domain: null
   bucket: null

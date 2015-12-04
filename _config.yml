@@ -1,7 +1,7 @@
 name: Mountcook
 favicon: null
-layout_spectrum: 0.19760193396359682
-typography_spectrum: 0.04490037355571985
+layout_spectrum: 0.53582
+typography_spectrum: 0.71351
 title: MountCook
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3548784682061523
-  lightness: 0.6188564531039447
-  saturation: 0.3579315028619021
-  rhythmicContrast: 0.5436674789525568
+    - '#ffffff'
+    - '#000000'
+    - '#9cc34c'
+    - '#777777'
+    - '#3f3f3f'
+  brandStrength: 0.375
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
